@@ -5,6 +5,9 @@ A full-stack, production-ready application for loan processing, featuring dynami
 Live Demo
 
     URL: https://lap-card-backed-system.vercel.app/
+    Clone the repository:
+
+git clone https://github.com/Sourav1234567890000/lap-card-backed-system
 
 Access Credentials
 
@@ -32,12 +35,6 @@ Prerequisites
 
     MongoDB Atlas Account
 
-Installation
-
-    Clone the repository:
-
-git clone https://github.com/Sourav1234567890000/lap-card-backed-system
-
 2. **Install dependencies:**
    ```bash
    npm install
@@ -51,6 +48,7 @@ node backend/scripts/seed.js
 
 5. **Start Application:**
    ```bash
-npm start
+   npm start
+   ```
 
 Built for Jetro Credit Hub | Developed by Sourav Negi
