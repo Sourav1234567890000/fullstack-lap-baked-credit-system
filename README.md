@@ -5,9 +5,6 @@ A full-stack, production-ready application for loan processing, featuring dynami
 Live Demo
 
     URL: https://lap-card-backed-system.vercel.app/
-    Clone the repository:
-
-git clone https://github.com/Sourav1234567890000/lap-card-backed-system
 
 Access Credentials
 
@@ -42,7 +39,7 @@ Prerequisites
 
 Configure Environment: Create a .env file in the backend directory with your MONGODB_URI.
 
-    Seed Database: Run the provided seed script to populate initial roles and applicant data:
+Seed Database: Run the provided seed script to populate initial roles and applicant data:
 
 node backend/scripts/seed.js
 
